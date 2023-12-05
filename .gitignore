@@ -122,3 +122,5 @@ nnvenv/share/man/man1/isympy.1
 
 nnvenv/Scripts/activate
 
+*.h
+*.1
